@@ -1,3 +1,11 @@
 .idea/
 *.xml
 *.iml
+*.exe
+*.sln
+Debug
+.vs
+*.vcxproj
+*.filters
+*vc*
+*vs*
